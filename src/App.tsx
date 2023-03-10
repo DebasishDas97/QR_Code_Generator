@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="flex justify-center items-center h-[100vh]">
-      <div className="w-96 bg-gray-800 p-8 rounded-md text-center">
+      <div className="w-[23rem] bg-gray-800 p-8 rounded-md text-center">
         <p className="text-3xl font-semibold text-white pb-5 font-serif">
           Enter url & get QR
         </p>
